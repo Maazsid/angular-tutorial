@@ -1,0 +1,39 @@
+{
+  "courses": [
+    {
+      "id": 2,
+      "title": "Fun",
+      "description": "ok",
+      "percentComplete": 100,
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "title": "sasa",
+      "description": "sasa",
+      "percentComplete": 21,
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "title": "cool",
+      "description": "very cool",
+      "percentComplete": 51,
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "title": "cool",
+      "description": "very cool",
+      "percentComplete": 51,
+      "favorite": true
+    },
+    {
+      "id": 6,
+      "title": "test",
+      "description": "test",
+      "percentComplete": 7,
+      "favorite": true
+    }
+  ]
+}
